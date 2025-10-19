@@ -39,7 +39,7 @@ README.md — documentation
 ________________________________________
 Setup Instructions
 1.	Clone repository
-git clone https://github.com/Shravani253/ProspectSearchAgent.git
+git clone git clone https://github.com/Shravani253/ProspectSearchAgent.git
 cd ProspectSearchAgent
 2.	Install dependencies
 pip install fastapi uvicorn requests
