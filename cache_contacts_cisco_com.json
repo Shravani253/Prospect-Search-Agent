@@ -1,0 +1,9 @@
+{
+  "status": 401,
+  "error": {
+    "type": [
+      "authentication_error"
+    ],
+    "message": "Your request is missing an api key."
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "company_name": "Amazon",
+    "domain": "amazon.com",
+    "industry": "Software Development",
+    "employee_count": 767693,
+    "location": "Seattle, WA",
+    "country": "United States",
+    "description": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. We are driven by the excitement of building technologies, inventing products, and providing services that change lives. We embrace new ways of doing things, make decisions quickly, and are not afraid to fail. We have the scope and capabilities of a large company, and the spirit and heart of a small one.\n\nTogether, Amazonians research and develop new technologies from Amazon Web Services to Alexa on behalf of our customers: shoppers, sellers, content creators, and developers around the world.\n\nOur mission is to be Earth's most customer-centric company. Our actions, goals, projects, programs, and inventions begin and end with the customer top of mind.\n\nYou'll also hear us say that at Amazon, it's always \"Day 1.\" What do we mean? That our approach remains the same as it was on Amazon's very first day - to make smart, fast decisions, stay nimble, invent, and focus on delighting our customers.",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "company_name": "Oracle",
+    "domain": "oracle.com",
+    "industry": "IT Services and IT Consulting",
+    "employee_count": 202730,
+    "location": "Austin, Texas",
+    "country": "United States",
+    "description": "We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them innovate, unlock efficiencies and become more effective. We also created the world’s first – and only – autonomous database to help organize and secure our customers’ data.\n \nOracle Cloud Infrastructure offers higher performance, security, and cost savings. It is designed so businesses can move workloads easily from on-premises systems to the cloud, and between cloud and on-premises and other clouds. Oracle Cloud applications provide business leaders with modern applications that help them innovate, attain sustainable growth, and become more resilient. \n \nThe work we do is not only transforming the world of business--it's helping defend governments, and advance scientific and medical research. From nonprofits to companies of all sizes, millions of people use our tools to streamline supply chains, make HR more human, quickly pivot to a new financial plan, and connect data and people around the world.  \n\nAt work, we embrace diversity, encourage personal and professional growth, and celebrate a global team of passionate people developing innovative technologies that help people and companies tackle real-world problems head-on.\n\nIf you’d like to join us, please visit our Careers page: https://www.oracle.com/corporate/careers/\n\nFor investor news, SEC filings, and financial information about Oracle (NYSE:ORCL), please visit https://investor.oracle.com/home/.\n \nFollow us on X: x.com/oracle \nLike our page on Facebook: facebook.com/Oracle/ \nFollow us on Instagram: instagram.com/oracle/",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "company_name": "OpenAI",
+    "domain": "openai.com",
+    "industry": "Research Services",
+    "employee_count": 8626,
+    "location": "San Francisco, CA",
+    "country": "United States",
+    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n\nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+    "contacts": [],
+    "signals": {
+      "recent_funding": true,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "company_name": "Crossover",
+    "domain": "crossover.com",
+    "industry": "IT Services and IT Consulting",
+    "employee_count": 2792,
+    "location": "Austin, TX",
+    "country": "United States",
+    "description": "Crossover is a global recruitment company, founded in 2014. We're the world's largest recruiter that specializes in elite full-time remote jobs, hiring the top 1% of tech talent from every corner of the planet.\n\nWe find awesome talent in overlooked places, by posting jobs all over the world, and giving everyone an equal opportunity to prove their skills are world-class. Our system of AI-powered assessments is based on objective factors that are scientifically proven to predict high performance (e.g. cognitive aptitude).\n\n𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:\n Reviews from people we've hired:   crossover.com/reviews\n Current openings:   crossover.com/jobs\n Hire someone for your company:   crossover.com/hire\n How the process works:   crossover.com/selection-process\n FAQs:   crossover.com/help\n~~~\n𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.\n\nAllow us to clarify some common misconceptions:\n1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.\n2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).\n3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.\n\nIt's hard, but it's worth it!",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "company_name": "Cisco",
+    "domain": "cisco.com",
+    "industry": "Software Development",
+    "employee_count": 95268,
+    "location": "San Jose, CA",
+    "country": "United States",
+    "description": "Cisco is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, Cisco has securely connected the world. With its industry leading AI-powered solutions and services, Cisco enables its customers, partners and communities to unlock innovation, enhance productivity and strengthen digital resilience.  With purpose at its core, Cisco remains committed to creating a more connected and inclusive future for all.",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "company_name": "GE HealthCare",
+    "domain": "gehealthcare.com",
+    "industry": "Hospitals and Health Care",
+    "employee_count": null,
+    "location": "Chicago",
+    "country": "United States",
+    "description": "Every day millions of people feel the impact of our intelligent devices, advanced analytics and artificial intelligence. As a leading global medical technology and digital solutions innovator, GE HealthCare enables clinicians to make faster, more informed decisions through intelligent devices, data analytics, applications and services, supported by its Edison intelligence platform.\n\nWith over 100 years of healthcare industry experience and around 50,000 employees globally, the company operates at the center of an ecosystem working toward precision health, digitizing healthcare, helping drive productivity and improve outcomes for patients, providers, health systems and researchers around the world.\n\nWe embrace a culture of respect, transparency, integrity and diversity and we work to create a world where healthcare has no limits.",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Palo Alto Networks",
+    "domain": "paloaltonetworks.com",
+    "industry": "Computer and Network Security",
+    "employee_count": null,
+    "location": "SANTA CLARA, California",
+    "country": "United States",
+    "description": "Palo Alto Networks, the global cybersecurity leader, is shaping the cloud-centric future with technology that is transforming the way people and organizations operate. Our mission is to be the cybersecurity partner of choice, protecting our digital way of life. We help address the world's greatest security challenges with continuous innovation that seizes the latest breakthroughs in artificial intelligence, analytics, automation, and orchestration. By delivering an integrated platform and empowering a growing ecosystem of partners, we are at the forefront of protecting tens of thousands of organizations across clouds, networks, and mobile devices. Our vision is a world where each day is safer and more secure than the one before. For more information, visit www.paloaltonetworks.com.",
+    "contacts": [],
+    "signals": {
+      "recent_funding": false,
+      "recent_hiring": false
+    },
+    "source": [
+      "Local JSON"
+    ],
+    "confidence": 0.4
+  }
+]
